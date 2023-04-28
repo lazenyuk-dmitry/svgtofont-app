@@ -1,0 +1,14 @@
+{
+  "src": "./svg",
+  "dist": "./dist/font",
+  "emptyDist": true,
+  "outSVGReact": false,
+  "generateInfoData": true,
+  "fontName": "svgFont",
+  "classNamePrefix": "svgFont",
+  "useNameAsUnicode": true,
+  "css": {
+    "include": "scss",
+    "output": "./dist"
+  }
+}
